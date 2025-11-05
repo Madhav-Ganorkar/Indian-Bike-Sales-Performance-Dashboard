@@ -71,10 +71,10 @@ The goal of this dashboard is to **understand brand performance**, **identify hi
 
 ## 📸 Dashboard Preview  
 ### 1️⃣ Indian Bike Sales Overview
-![Overview Dashboard](Dashboard_Screenshots/Overview_Dashboard.png)
+![Overview Dashboard](Dashboard_Screenshots/Overview_Dashboard.PNG)
 
 ### 2️⃣ Brand Performance Dashboard
-![Brand Dashboard](Dashboard_Screenshots/Brand_Performance.png)
+![Brand Dashboard](Dashboard_Screenshots/Brand_Performance.PNG)
 
 ---
 
