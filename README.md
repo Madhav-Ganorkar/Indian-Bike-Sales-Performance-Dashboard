@@ -50,12 +50,12 @@ The goal of this dashboard is to **understand brand performance**, **identify hi
 
 ## 📂 Project Structure  
 📁 Indian_Bike_Sales_Performance
-📄 bike_sales_india.csv # Raw dataset
-📊 Indian_Bike_Sales.pbix # Power BI file
-🖼️ Dashboard_Screenshots/ # PNG visuals for README
-   - Overview_Dashboard.png
-   - Brand_Performance.png
-📘 README.md # Project documentation
+- 📄 bike_sales_india.csv # Raw dataset
+- 📊 Indian_Bike_Sales.pbix # Power BI file
+- 🖼️ Dashboard_Screenshots/ # PNG visuals for README
+    - Overview_Dashboard.png
+    - Brand_Performance.png
+- 📘 README.md # Project documentation
 
 
 
